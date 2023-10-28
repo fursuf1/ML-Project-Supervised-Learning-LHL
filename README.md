@@ -30,7 +30,7 @@ Having completed the preliminary data preparation steps, I moved on to the machi
 ### Exploratory Data Analysis and Feature Engineering 🌐
 - During the EDA phase, I detected outliers, data imbalances, and incorrect values. Notably, some predictor variables had zero values, which I either removed or replaced with the median value.
 - Feature scaling was carried out to address the variations in unit representation and magnitudes across different variables. This ensured fair and effective contributions from all features during the learning process.
-- Feature selection, based on correlation with the target variable 'Outcome,' was performed to enhance model performance and interpretability by reducing complexity..
+- Feature selection, based on correlation with the target variable 'Outcome,' was performed to enhance model performance and interpretability by reducing complexity.
 
 ### Machine Learning Model Training 🤖
 - I evaluated three distinct machine learning models: logistic regression, support vector machines, and random forest classifiers. My objective was to compare their performance.
